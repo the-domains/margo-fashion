@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Margo fashion]]></title>
         <description><![CDATA[Margo fashion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/margo-fashion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 16:19:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 16:22:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/margo-fashion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e92a41c-a98a-4ce6-921c-116c260a09fc.jpg">]]></description>
+            <link>https://thegrid.ai/margo-fashion/e166bb47-7791-43b0-a810-89ae7d057151/index.html</link>
+            <guid isPermaLink="false">e166bb47-7791-43b0-a810-89ae7d057151</guid>
+            <pubDate>Thu, 14 Jul 2016 16:22:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ամառային զգեստ աղջկա համար]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4bf669f-a1cf-4a0b-b63c-c2be7ad39d7b.jpg" alt="" title="">]]></description>
-            <link>undefined2fcb906b-fdd5-46ab-bb21-a51be5d0a57a/index.html</link>
+            <link>https://thegrid.ai/margo-fashion/2fcb906b-fdd5-46ab-bb21-a51be5d0a57a/index.html</link>
             <guid isPermaLink="false">2fcb906b-fdd5-46ab-bb21-a51be5d0a57a</guid>
             <pubDate>Thu, 14 Jul 2016 16:19:27 GMT</pubDate>
         </item>
