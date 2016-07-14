@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Margo fashion]]></title>
+        <description><![CDATA[Margo fashion]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jul 2016 16:19:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ամառային զգեստ աղջկա համար]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4bf669f-a1cf-4a0b-b63c-c2be7ad39d7b.jpg" alt="" title="">]]></description>
+            <link>undefined2fcb906b-fdd5-46ab-bb21-a51be5d0a57a/index.html</link>
+            <guid isPermaLink="false">2fcb906b-fdd5-46ab-bb21-a51be5d0a57a</guid>
+            <pubDate>Thu, 14 Jul 2016 16:19:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
