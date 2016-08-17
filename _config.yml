@@ -1,19 +1,4 @@
-name: Margo fashion
-favicon: null
-layout_spectrum: 0.418617449933663
 typography_spectrum: 0.6644428058061749
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e5e5e5'
@@ -25,4 +10,23 @@ color:
   lightness: 0.6875
   saturation: 0.6875
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.418617449933663
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Margo fashion
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: children fashion
+    id: e166bb47-7791-43b0-a810-89ae7d057151
+    type: content
+favicon: null
 purpose: []
